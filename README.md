@@ -48,7 +48,7 @@ After encoding, image looks like this:
 
 ![sample-enc.png](https://user-images.githubusercontent.com/54276661/120529596-46ae4b00-c3fa-11eb-82fe-3938dd0739aa.png)
 
-***Visually, no change seen.***
+***Visually, no change seen. The size change is just seen because I had to compress images to show in readme. Originally no change seen in images.***
 
 **Decode**
 
