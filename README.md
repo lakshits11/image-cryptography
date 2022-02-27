@@ -1,7 +1,10 @@
 ﻿# IMAGE CRYPTOGRAPHY
   
 
-![imgcrypto](https://user-images.githubusercontent.com/54276661/120526625-05686c00-c3f7-11eb-9102-9274ec67b2e1.PNG)
+<!-- ![imgcrypto](https://user-images.githubusercontent.com/54276661/120526625-05686c00-c3f7-11eb-9102-9274ec67b2e1.PNG) -->
+
+
+![poster](./poster.png)
 
 
 
