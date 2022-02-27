@@ -22,7 +22,7 @@ You can install the all requirements from **requirements.txt** by using pip.
 
 `python main.py`
 
-![1](https://user-images.githubusercontent.com/54276661/120528533-33e74680-c3f9-11eb-8aa1-ffaf1863075b.PNG)
+![1](./img-crypto-1.png)
 
 **Encode**
 
@@ -51,6 +51,8 @@ After encoding, image looks like this:
 ***Visually, no change seen. The size change is just seen because I had to compress images to show in readme. Originally no change seen in images.***
 
 **Decode**
+
+![decoding](./img-crypto-2.png)
 
 - Choose *Decode* from the menu
 
