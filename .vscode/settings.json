@@ -1,3 +1,20 @@
 {
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "black",
+    "python.linting.enabled": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "keyword.operator",
+                    "keyword.control.import.python",
+                    "variable.parameter",
+                    "keyword.control.flow.python"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            }
+        ]
+    },
+    "editor.fontWeight": "450"
 }

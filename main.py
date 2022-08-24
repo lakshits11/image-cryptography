@@ -42,9 +42,7 @@ def decrypt(key, source, decode=True):
     decryptor = AES.new(key, AES.MODE_CBC, IV)
     data = decryptor.decrypt(source[AES.block_size :])  # decrypt
     padding = data[-1]  # pick the padding value from the end => ord(data[-1])
-    if (
-        data[-padding:] != bytes([padding]) * padding
-    ):
+    if data[-padding:] != bytes([padding]) * padding:
         raise ValueError("Invalid padding...")
     return data[:-padding]  # remove the padding
 
